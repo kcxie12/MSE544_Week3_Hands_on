@@ -32,9 +32,7 @@ The aim of this homework is to gain an understanding of program efficiency and p
 
 4. Open the `script` using `vi` command and modify the `--ntasks-per-node` parameter by changing the value of `n` to 1, 2, 4, 8, and 16, respectively.
 
-5. Save the job script and submit the job using the `sbatch` command. You can submit the job using the following command:
-
-`sbatch script`
+5. Save the job script and **submit the job as a batch job**.
 
 6. Wait for the job to complete execution.
 
