@@ -24,7 +24,7 @@ The aim of this homework is to gain an understanding of program efficiency and p
 
 ## Performance Analysis of Matrix Multiplication with Varying Numbers of Cores. <a name="task"></a>
 
-1. Please download: `matmul.zip` from Canvas. Unzip it in your local computer, and read the scripts in it.
+1. Please download: `Hands_on.zip` from Canvas. Unzip it in your local computer, and read the scripts in it.
 
 2. Open the provided script `matmul_3.py` in a text editor and change the `SIZE` parameter to 5000.
 
