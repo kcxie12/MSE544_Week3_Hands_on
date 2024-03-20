@@ -1,6 +1,6 @@
 # MSE544_Week3_Hands_on
 
-## Hands-on 2: Parallelization in Matrix Multiplication.
+## Hands-on 3: Parallelization in Matrix Multiplication.
 
 Authors: Ting Cao & [Ziyu Zhang](https://github.com/Ilxxll)
 
